@@ -1,5 +1,5 @@
 # CS2104
-Shoumik Bisoi CS2104 Projects
+Shoumik Bisoi CS2104 Project:
 This is a Streamlit-based app that predicts the outcome of NBA games based on historical data from Basketball Reference.
 
 Used to:
@@ -13,4 +13,11 @@ Model.py
   - Uses sci-kit for Random Forest Classification
 
 App.py
-  - Uses streamlit for frontend GUI purposes. 
+  - Uses streamlit for frontend GUI purposes.
+
+HOW TO RUN:
+
+git clone https://github.com/shoumik77/CS2104.git
+cd CS2104
+python3 -m venv .venv
+source .venv/bin/activat
